@@ -4,50 +4,54 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+ Social media on mental health
 
 ### Authors
-
-Names of your team members and contact information (email addresses).
+Kelvin Teng, Josh Lee , October 
 ### Date
+5/1/2024
 
-Winter 2023
 ## Abstract
 
-No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
+Our project aims to explore the impact of social media on mental health, analyzing sentiment trends and their correlation with mental health indicators. By examining data from platforms like Twitter, we seek to understand how online interactions influence well-being and identify potential interventions. 
+
 
 ## Keywords
 
-3-5 keywords that summarize your project.
-(e.g., "Keywords: human physiology; bicycle exercise; Gen Z; times-series data")
+Social media, mental health, sentiment analysis, data analytics, intervention
 
 ## Proposal
 
-1. Introduction  
+Our project delves into the intricate relationship between social media usage and mental health. The pervasive nature of social platforms prompts questions regarding their effects on psychological well-being. We aim to investigate how sentiment expressed on social media correlates with mental health indicators such as depression rates or self-reported stress levels. Motivated by the increasing reliance on social media for communication and its potential impact on mental health, our research seeks to shed light on this critical intersection. The questions we pose include:  
 
-> Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
+1. How does sentiment expressed on social media platforms correlate with mental health indicators?
 
-2. Related Work  
+2. Are there discernible trends in sentiment that coincide with fluctuations in mental health metrics?
 
-> Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
+3. Can interventions based on sentiment analysis positively influence mental health outcomes?
 
-3. The Dataset
+Understanding these questions is crucial in designing strategies to mitigate potential negative impacts of social media on mental well-being and harness its potential for positive change.
 
-> Where did you find the data? Please include a link to the data source  
-> Who collected the data?  
-> How was the data collected or generated?  
-> Why was the data collected?  
->How many observations (rows) are in your data?  
-> How many features (columns) are in the data?  
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
-> What are possible limitations or problems with this data?   (at least 200 words)
+
+Related Work:
+Research in this domain has highlighted the complex interplay between social media usage and mental health outcomes. Twenge et al. (2018) [1] observed a significant increase in depressive symptoms among adolescents, coinciding with the rise of smartphones and social media. Similarly, Moreno et al. (2016) [2] emphasized the need for tailored interventions to address mental health issues exacerbated by social media use among college students. Additionally, studies like Fadhil & Gaber (2019) [3] have explored sentiment analysis techniques to gauge emotional states on platforms like Twitter, providing valuable insights into user behavior and mental health discourse.
+
+The Dataset:
+We sourced our data from the Twitter API, collecting tweets containing relevant keywords over a specified period. The dataset comprises over 200,000 tweets and includes features such as text content, timestamp, user metadata, and sentiment scores obtained through natural language processing techniques. Ethical considerations involve ensuring user privacy and consent, as well as addressing potential biases in the data collection process. Limitations may include the representativeness of Twitter users and the challenge of accurately inferring mental health states from social media posts.
 
 4. Implications
 
-> Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
+If our research successfully addresses the research questions, it could have significant implications for various stakeholders. Technologists could develop algorithms and tools to promote healthier online environments, while designers may incorporate features that encourage positive interactions. Policymakers could use insights from our findings to formulate regulations or guidelines aimed at safeguarding mental health in digital spaces.
 
 5. Limitations & Challenges
->What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
+Challenges associated with our project include the complexity of analyzing sentiment accurately and the need to account for cultural and linguistic nuances in social media discourse. Additionally, interpreting correlations between online sentiment and mental health indicators requires careful consideration of confounding variables and potential biases inherent in the data collection process.
+
+
+References:
+1. Twenge, J. M., Campbell, W. K., & Martin, G. N. (2018). "Decreases in psychological well-being among American adolescents after 2012 and links to screen time during the rise of smartphone technology." *Emotion*, 18(6), 765–780.
+2. Moreno, M. A., Jelenchick, L. A., & Egan, K. G. (2016). "Feeling bad on Facebook: Depression disclosures by college students on a social networking site." *Depression and Anxiety*, 33(12), 1081–1089.
+3. Fadhil, A., & Gaber, M. M. (2019). "Sentiment analysis in social media." *Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery*, 9(5), e1309.
+4.https://www.researchgate.net/publication/308908389_Using_social_media_to_monitor_mental_health_discussions_-_evidence_from_Twitter
 
 Acknowledgements
-> Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
+I want to thank to Mie for helped that getting my group set up and all that. 
