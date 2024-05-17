@@ -1,4 +1,4 @@
-## loading data
+## set up and loading data
 ```{r}
 library(tidyverse)
 library(dplyr)
