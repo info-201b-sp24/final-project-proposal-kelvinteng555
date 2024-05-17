@@ -4,25 +4,25 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
- Social media on mental health
+Analysis of FF vs MM households in Gayborhood areas
 
 ### Authors
-Kelvin Teng, Josh Lee , October 
+Kelvin Teng, Josh Lee , October Allen
 ### Date
-5/1/2024
+05/17/2024
 
 ## Abstract
 
-Our project aims to explore the impact of social media on mental health, analyzing sentiment trends and their correlation with mental health indicators. By examining data from platforms like Twitter, we seek to understand how online interactions influence well-being and identify potential interventions. 
+Our project aims to explore the relationship between Female same sex couples and Male same sex couples in gayborhood areas. We hope to analyze marraige patterns in certain zip codes and overall, as well as comparison between the % married for Femal versus male and in general wether there are more Female or Male couples in these areas. 
 
 
 ## Keywords
 
-Social media, mental health, sentiment analysis, data analytics, intervention
+gay, pride, gayborhood, lesbian, marraige, statistics
 
 ## Proposal
 
-Our project delves into the intricate relationship between social media usage and mental health. The pervasive nature of social platforms prompts questions regarding their effects on psychological well-being. We aim to investigate how sentiment expressed on social media correlates with mental health indicators such as depression rates or self-reported stress levels. Motivated by the increasing reliance on social media for communication and its potential impact on mental health, our research seeks to shed light on this critical intersection. The questions we pose include:  
+Our project delves into the differences in same-sex couples for males and females.  The questions we pose include:  
 
 1. How does sentiment expressed on social media platforms correlate with mental health indicators?
 
