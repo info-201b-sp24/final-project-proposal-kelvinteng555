@@ -10,20 +10,8 @@ data <- read_csv('data.csv')
 city_mapping <- c(
   '30301' = 'Atlanta', '30302' = 'Atlanta', '30303' = 'Atlanta',
   '73301' = 'Austin', '73302' = 'Austin',
-  '02101' = 'Boston', '02102' = 'Boston',
-  '60601' = 'Chicago', '60602' = 'Chicago',
-  '80201' = 'Denver', '80202' = 'Denver',
-  '77001' = 'Houston', '77002' = 'Houston',
-  '90001' = 'Los Angeles', '90002' = 'Los Angeles',
-  '33101' = 'Miami', '33102' = 'Miami',
-  '70112' = 'New Orleans', '70113' = 'New Orleans',
-  '10001' = 'New York', '10002' = 'New York',
-  '19104' = 'Philadelphia', '19105' = 'Philadelphia',
-  '97201' = 'Portland', '97202' = 'Portland',
-  '94101' = 'San Francisco', '94102' = 'San Francisco',
-  '98101' = 'Seattle', '98102' = 'Seattle',
-  '20001' = 'Washington DC', '20002' = 'Washington DC'
-  # Add more ZIP code mappings as needed
+  # Add more mappings as necessary
+  # ...
 )
 
 # Apply the city mapping
@@ -35,16 +23,20 @@ data <- data %>% filter(!is.na(City))
 # Group by city and calculate required statistics
 grouped_data <- data %>%
   group_by(City) %>%
-  summarise(Average_TOTINDEX = mean(TOTINDEX, na.rm = TRUE),
-            Max_SS_Index = max(SS_Index, na.rm = TRUE),
-            Total_CountBars = sum(CountBars, na.rm = TRUE)) %>%
+  summarise(
+    Average_TOTINDEX = mean(TOTINDEX, na.rm = TRUE),
+    Max_SS_Index = max(SS_Index, na.rm = TRUE),
+    Total_CountBars = sum(CountBars, na.rm = TRUE)
+  ) %>%
   arrange(desc(Average_TOTINDEX))
 
 # Round the values to two decimal places
 grouped_data <- grouped_data %>%
-  mutate(Average_TOTINDEX = round(Average_TOTINDEX, 2),
-         Max_SS_Index = round(Max_SS_Index, 2),
-         Total_CountBars = round(Total_CountBars, 2))
+  mutate(
+    Average_TOTINDEX = round(Average_TOTINDEX, 2),
+    Max_SS_Index = round(Max_SS_Index, 2),
+    Total_CountBars = round(Total_CountBars, 2)
+  )
 
 # Display the resulting table
 print(grouped_data)
