@@ -60,3 +60,4 @@ We would like to thank our Teaching Assistant, Mie, our Professor, and The-Puddi
 For chart 1, we made a bar graph comparing the rate of married same-sex couples between the 5 most populous zipcodes in the dataset.
 
 
+
