@@ -1,15 +1,1 @@
-"Table RMD "
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(knitr)
-library(ggplot2)
-library(dplyr)
-# Create a sample data frame
-df_table <- data.frame(
-  Zipcode = c("94104", "94114", "90069", "10162", "07311", "94131", "10011", "20036", "94105", "30317"),
-  `Gay Bars` = c(0, 17, 15, 0, 0, 0, 5, 1, 0, 0),
-  `Pride March Boolean` = c(1, 0, 1, 0, 0, 0, 1, 1, 1, 0)
-)
 
-# Render the table using kable
-kable(df_table, caption = "Number of Gay Bars and Presence of Pride March by Zip Code")
