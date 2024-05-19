@@ -71,6 +71,11 @@ The reason we included this table was to show the relationship between having ga
 
 # Chart 1
 
+```{r test, echo=FALSE, results='asis'}
+source('Chart1.R')
+print(chart1)
+````
+
 For chart 1, we made a bar graph comparing the rate of married same-sex couples between the 5 most populous zipcodes in the dataset. The purpose is to compare these zipcodes and see if there is anything about a large population that adds to the rate of same sex couples. We can see in the chart that there is a lot of variation between the rates of same sex couples in these areas, even though they are all around the same population. This shows that just because the zipcode is in a big, metropolitan progressive hub, it doesn't necessarily translate to more same sex couples. Factors such as accessibility to queer resources are presumably a bigger contributor to the rate of same sex couples. 
 
 # Chart 2
