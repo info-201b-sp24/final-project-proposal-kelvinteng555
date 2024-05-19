@@ -7,7 +7,7 @@ top5 <- dataset %>%
     arrange(TaxRate_SS)
 zipCode <- top5 %>%
     pull(GEOID10)
-ggplot(top5)+
+chart1 <- ggplot(top5)+
   geom_col(mapping = aes(x = zipCode, y = TaxRate_SS))+
   labs(
     title = "Most Populated Zipcodes versus Rate of Same-Sex Married Couples",
