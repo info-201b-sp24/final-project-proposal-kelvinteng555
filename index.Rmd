@@ -77,7 +77,7 @@ For chart 1, we made a bar graph comparing the rate of married same-sex couples 
 
 # Chart 2
 
-![chart2](https://github.com/info-201b-sp24/final-project-proposal-kelvinteng555/blob/7fd753fb7639ec05def051e357771d515af1a6f0/chart2.png)
+![chart2](chart2.png)
 
 For chart 2, we made a scatter plot showing the correlation between the number of gay bars and unmarried same sex couples. We included this because, as posed in the explanation for Chart 1, we wanted to see the direct correlation between a factor that may increase the rate of same sex couples in an area unrelated to population. As we can see in the chart, there is a positive trend that indicates that more gay bars, a place where people may find love and be registered as a couple, increases the rate of same sex couples. Some inconsistencies in the data could be attributed to the fact that areas with no gay bars, such as certain zipcodes in metropolitans like New York, may still have a large gay population that simply travels to nearby areas that do have gay bars. This would result in data points with a low number of gay bars and a high number of same sex couples. 
 
