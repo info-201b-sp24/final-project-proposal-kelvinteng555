@@ -54,3 +54,6 @@ Although patterns may be able to be formed from this data, the dataset isnt incr
 
  ### Acknowledgements:
 We would like to thank our Teaching Assistant, Mie, our Professor, and The-Pudding for making this project possible. 
+
+# GITHUB LINK
+https://github.com/info-201b-sp24/final-project-proposal-kelvinteng555
