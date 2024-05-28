@@ -24,17 +24,17 @@ Our project aims to explore the relationship between Female same sex couples and
 
 ### Keywords
 
-gay, pride, gayborhood, lesbian, marraige, statistics
+gay, pride, gayborhood, lesbian, marriage, statistics
 
 ### Proposal
 
 Our project delves into the differences in same-sex couples for males and females. Our hope is that this research could be contributed to social science relating to gender differences, societal structures specifically relating to LGBTQ populations.  The questions we pose include:  
 
-1. How do the rates for same sex couples marraige compare between genders?
+1. How does the percent of married households compare between male-male and female-female households?
 
-2. How do overall rates of FF same sex households compare to rates of MM households in gayborhoods?
+2. Which zipcodes have the most same-sex couples, and why might these locations have more? 
 
-3. Are there significant differences between marraige practices in certain areas or is there a larger trend between genders or no correlation for either?
+3. What is the correlation between gay bars and (un)married same-sex couples?
 
 Understanding these questions is crucial in analyzing the way our social structure works, gender norms, LGBTQ life and influences and if there are differences this could lead to more research about the possible cause of such differences and if there are underlying issues. Understanding pieces of a complex society helps in building adequete structures and understanding / documenting the history happening around the world every day. Knowing about social trends can tell so much about the development and health of a culture and can lead to better social programs for aiding affected parties, but also can just be useful to document and compare over time.
 
