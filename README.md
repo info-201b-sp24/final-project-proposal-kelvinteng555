@@ -6,7 +6,7 @@ Link to your final GitHub pages site here: [https://info-201a-sp22.github.io/a4-
 
 [https://info-201b-sp24.github.io/a4-incarceration-assignment-lucya4/] (change the link to for your GitHub pages site)
 
-[https://info-201a-sp22.github.io/final-project-proposal-kelvinteng555/]
+[[https://info-201a-sp22.github.io/final-project-proposal-kelvinteng555/]](https://github.com/info-201b-sp24/final-project-proposal-kelvinteng555/blob/6c78d1e11507a884bfd9ee1622a02f5948555a23/index.html)
 
 ## Project title
 
