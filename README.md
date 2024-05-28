@@ -2,6 +2,12 @@
 
 Please complete your proposal following the outline below.
 
+Link to your final GitHub pages site here: [https://info-201a-sp22.github.io/a4-incarceration-assignment-lucya4/index.html]
+
+[https://info-201b-sp24.github.io/a4-incarceration-assignment-lucya4/] (change the link to for your GitHub pages site)
+
+https://github.com/info-201b-sp24/final-project-proposal-kelvinteng555
+
 ## Project title
 
 Analysis of FF vs MM households in Gayborhood areas
