@@ -19,8 +19,7 @@ Kelvin Teng, Josh Lee , October Allen
 
 ### Abstract
 
-Our project aims to explore the relationship between Female same sex couples and Male same sex couples in gayborhood areas. We hope to analyze marraige patterns in certain zip codes and overall, as well as comparison between the % married for Femal versus male and in general wether there are more Female or Male couples in these areas. 
-
+Our project aims to explore the dynamics of same-sex couples and gayborhoods in the United States. Same-sex marriage was legalized only nine years ago, so understanding same-sex couples and their place in today's society is crucial in inclusiveness and learning for the future. We hope to analyze marriage patterns in certain zip codes as well as analyzing the differences between characteristics of female and male same-sex couples. 
 
 ### Keywords
 
