@@ -38,3 +38,9 @@ ui <- fluidPage(
   fluidRow(column(12, plotlyOutput("plot")))
   
 )                        
+# Both of these graphs showcase the correlation between the number of gay bars in a particular zipcode and the number of 
+# (un)married same-sex couples in that same zipcode. Both graphs indicate a direct relationship between the two variables, which could be for
+# a variety of reasons. The most obvious reason to us is that these couples formed in the first place through the bars as an avenue. Having more
+# ways to meet potential partners in an area is sure to increase the number of couples. Another potential reason is that a zipcode with more gay
+# bars is more likely to be a safe area free from prejudice and discrimination. Homophobia is unfortunately rampant in many areas of the US, and
+# so areas with access to queer communities attracts potential couples to move to these areas. 
